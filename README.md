@@ -24,7 +24,7 @@ Interactive landing page.
 - Styling has been added for active states.
 
 ## Project preview  
-![landing page](/imgs\Screenshot 2021-08-24 162027.jpg "landing page").
+![landing page](/imgs\Screenshot20%2021-08-2420%162027.jpg).
 
 
 ## License  
