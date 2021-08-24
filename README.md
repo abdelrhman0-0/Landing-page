@@ -25,7 +25,7 @@ Interactive landing page.
 
 ## Project preview  
 
-![landing page](https://github.com/[abdelrhman0-0]/[Landing-page]/blob/[main]/imgs/page.jpg)
+[landing page](imgs\page.jpg)  
 
 
 ## License  
