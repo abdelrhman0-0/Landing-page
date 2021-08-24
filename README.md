@@ -24,7 +24,8 @@ Interactive landing page.
 - Styling has been added for active states.
 
 ## Project preview  
-![landing page](imgs\page.jpg).
+
+![landing page](https://github.com/[abdelrhman0-0]/[Landing-page]/blob/[main]/imgs/page.jpg)
 
 
 ## License  
