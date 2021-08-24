@@ -25,7 +25,7 @@ Interactive landing page.
 
 ## Project preview  
 
-[landing page](imgs\page.jpg)  
+![landing page](imgs/page.jpg)  
 
 
 ## License  
