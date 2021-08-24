@@ -1,21 +1,31 @@
 # Landing Page Project
+Interactive landing page.   
 
-# Landing page project
----    
-Interactive landing page 
-## Table of Contents
----  
+
+  
+## Table of Contents  
 
 * [Instructions](#instructions)  
-* [Demo preview](#Demo_preview)  
-* [Instructions](#instructions)  
-* [Instructions](#instructions)  
+* [Usability](#usability)  
+* [Project preview](#project-preview)  
+* [License](#License)  
 
 
 ## Instructions  
----  
-- Open **index.html** file.   
-- Scroll to see the difference
+ 
+1. Open **index.html** file.   
+2. While scrolling your active section and your active link are highlighted.  
+3. When clicking an item from the navigation menu, the link should scroll to the  appropriate section.
+
+## Usability  
+
+- All features are usable across modern desktop, tablet, and phone browsers.  
+- Navigation is built dynamically as an unordered list. Start with empty `ul` and   dynamically build navigation using `Append`, `appendChild`, and `innerHTML`.    
+- Styling has been added for active states.
+
+## Project preview  
+![landing page](/imgs\Screenshot 2021-08-24 162027.jpg "landing page").
 
 
-
+## License  
+Copyright © 2007 Free Software Foundation, Inc.
