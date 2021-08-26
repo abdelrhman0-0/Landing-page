@@ -63,9 +63,9 @@ function addActive() {
         section.classList.remove("your-active-class");
       }
   
-      if (top <= 80 && top >= -400) {
+      if (top >= 0 && top <= 250) {
         section.classList.add("your-active-class");
-        var sectionDataNav = section.getAttribute("data-nav");
+        let sectionDataNav = section.getAttribute("data-nav");
         for (let i = 0; i < linksArr.length; i++) {
           linksArr[i].classList.remove("your-active-class");
           if (linksArr[i].getAttribute("data-nav") == sectionDataNav) {
